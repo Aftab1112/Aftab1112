@@ -29,10 +29,9 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 
 #
   
-#### You can find me on
-- [CodePen](https://codepen.io/atmahana) - I made some cool UI stuffs here!
-- [Frontend Mentor](https://www.frontendmentor.io/profile/atmahana) - I create and review awesome front-end projects here!
-- [Linkedin](https://www.linkedin.com/in/zubair-adham/) - Yes
+#### You can also find me on
+- [Frontend Mentor]([https://www.frontendmentor.io/profile/atmahana](https://www.frontendmentor.io/profile/Aftab1112)) - I try to build up my front-end skills here 
+
 
 #
 
