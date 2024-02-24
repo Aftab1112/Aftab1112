@@ -65,7 +65,7 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 
 
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aftab1112&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aftab1112&theme=tokyonight&hide_border=false&langs_count=4&include_all_commits=false&count_private=true&layout=compact)
 
 
 
