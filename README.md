@@ -5,7 +5,7 @@
 
 <div align="center">
  
-Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
+Self-taught `JavaScript/React` <br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
 
 </div>
 
