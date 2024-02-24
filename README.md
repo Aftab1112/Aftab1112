@@ -1,16 +1,67 @@
-### Hi there 👋
+<div align="center">
+  <img height="130" src="![image](https://github.com/Aftab1112/Aftab1112/assets/148782555/7f924e2f-70e4-4324-ace3-b2d694464a6e)
+"  />
+</div>
 
-<!--
-**Aftab1112/Aftab1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+Self-taught `JavaScript/TypeScript` enjoyer<br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+#
+  
+#### You can find me on
+- [CodePen](https://codepen.io/atmahana) - I made some cool UI stuffs here!
+- [Frontend Mentor](https://www.frontendmentor.io/profile/atmahana) - I create and review awesome front-end projects here!
+- [Linkedin](https://www.linkedin.com/in/zubair-adham/) - Yes
+
+#
+
+<div align="center">
+ 
+### Tools 
+<br/>
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+
+</div>
+
+#
+
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atmahana&theme=tokyonight&hide_border=false&langs_count=4&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=atmahana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atmahana&theme=tokyonight&hide_border=false)<br/>
+
+</div>
+
+#
+
+<p align="center">Thank you for visiting my profile!</p>
+
+<div align="center">
+  <img height="130" src="https://cdn.betterttv.net/emote/5f6b6da762f49f0b2162e180/3x.webp"  />
+</div>
