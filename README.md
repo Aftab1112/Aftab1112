@@ -7,7 +7,8 @@
 <h3 align="center">A passionate Front-End Developer</h3>
 Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end development <br/>
 </div>
----
+
+*********************************************************************************
 
 
 - I’m currently studying in **Final Year Btech(CSE)**
