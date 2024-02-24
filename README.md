@@ -34,7 +34,9 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 #
 
 <div align="center">
+  
 ### Tools I Use
+
 <br/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
