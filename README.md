@@ -76,5 +76,5 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 <p align="center">Thank you for visiting my profile!</p>
 
 <div align="center">
-  <img height="130" src="https://cdn.betterttv.net/emote/5f6b6da762f49f0b2162e180/3x.webp"  />
+  <img width="230" height="200" src="https://media1.tenor.com/m/TF830aDclLsAAAAC/adi%C3%B3s.gif" />
 </div>
