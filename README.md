@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="130" src="![image](https://github.com/Aftab1112/Aftab1112/assets/148782555/7f924e2f-70e4-4324-ace3-b2d694464a6e)
+  <img height="130" src="![image](https://github.com/Aftab1112/Aftab1112/blob/main/hi-there.gif)
 "  />
 </div>
 
