@@ -1,14 +1,16 @@
 <div align="center">
   <img  width="230" height="160"src="https://media1.tenor.com/m/34qNY2r67PgAAAAC/hi-hi-there.gif"/>
 </div>
-<div align="center">
 
+<div align="center">
 <h1 align="center">Hi , I'm Aftab Reshamwale</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
- 
 Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end development <br/>
-
 </div>
+
+
+
+
 
 - I’m currently studying in **Final Year Btech(CSE)**
 
