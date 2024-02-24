@@ -10,6 +10,13 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 
 </div>
 
+- I’m currently studying in **Final Year Btech(CSE)**
+
+- I’m currently learning **Front End Web Development(JavaScript, Responsive Web Design, React)**
+
+- How to reach me : **aftabreshamwale@gmail.com**
+
+
 #
   
 #### You can find me on
