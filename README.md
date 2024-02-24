@@ -1,8 +1,6 @@
 <div align="center">
   <img  width="230" height="160"src="https://media1.tenor.com/m/34qNY2r67PgAAAAC/hi-hi-there.gif"/>
 </div>
-
-
 <div align="center">
  
 Self-taught `JavaScript/React` <br/>Love crafting for frontend as much as I <br/> love building custom keyboards ⌨<br/>Writes ramen backend code 🍜
