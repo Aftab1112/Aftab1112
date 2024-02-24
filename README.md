@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<h1 align="center">Hi , I'm Aftab Reshamwale</h1>
+<h1 align="center">Hello , I'm Aftab Reshamwale</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end development <br/>
@@ -56,8 +56,11 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 #
 
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aftab1112&theme=tokyonight&hide_border=false&langs_count=4&include_all_commits=false&count_private=true&layout=compact)
+
 </div>
+
 
 #
 
