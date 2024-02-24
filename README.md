@@ -30,7 +30,7 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 #
   
 #### You can also find me on
-- [Frontend Mentor]([https://www.frontendmentor.io/profile/atmahana](https://www.frontendmentor.io/profile/Aftab1112)) - I try to build up my front-end skills here 
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I try to build up my front-end skills here 
 
 
 #
