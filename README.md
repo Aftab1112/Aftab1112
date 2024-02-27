@@ -29,7 +29,7 @@ Autodidact in `JavaScript/React` <br/>Enthusiastic about growing my skills in Fr
 #
   
 #### You can also find me on :
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I'm refining my front-end abilities here
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I'm refining my Front-End abilities here
 
 #
 
