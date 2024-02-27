@@ -13,9 +13,9 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 ----------------------------------------------------
 
 
-- I'm in my final year of B.Tech (CSE).**
+- I'm in my final year of **B.Tech (CSE).**
 
-- I'm currently learning Front End Web Development, focusing on JavaScript, Responsive Web Design, and React.**
+- I'm currently learning **Front End Web Development, focusing on JavaScript, Responsive Web Design, and React.**
 
 - How to reach me : **aftabreshamwale@gmail.com**
 
