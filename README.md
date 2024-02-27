@@ -7,7 +7,7 @@
 <h1 align="center">Hello , I'm Aftab Reshamwale</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-Autodidact in `JavaScript/React` <br/>Enthusiastic about growing my skills in Front-End Development. <br/>
+Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills in Front-End Development. <br/>
 </div>
 
 ----------------------------------------------------
