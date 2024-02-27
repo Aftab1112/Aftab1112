@@ -21,10 +21,12 @@ Autodidact in `JavaScript/React` <br/>Enthusiastic about growing my skills in Fr
 
 
 <h3 align="left">Connect with me:</h3>
+<div display="flex" align-items="center">
 <p align="left">
 <a href="https://linkedin.com/in/aftabreshamwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabreshamwale" height="30" width="40" /></a>
 <a href="https://twitter.com/@areshamwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@areshamwale" height="30" width="40" /></a>
 </p>
+</div>
 
 #
   
