@@ -7,15 +7,15 @@
 <h1 align="center">Hello , I'm Aftab Reshamwale</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills in Front-End Development. <br/>
+Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills in Front-End Development <br/>
 </div>
 
 ----------------------------------------------------
 
 
-- I'm in my final year of **B.Tech (CSE).**
+- I'm in my final year of **B.Tech (CSE)**
 
-- I'm currently learning **Front End Web Development, focusing on JavaScript, Responsive Web Design, and React.**
+- I'm currently learning **Front End Web Development, focusing on JavaScript, Responsive Web Design, and React**
 
 - How to reach me : **aftabreshamwale@gmail.com**
 
@@ -71,7 +71,7 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 
 #
 
-<p align="center">Thank you for taking the time to visit my profile!</p>
+<p align="center">Thank you for taking the time to visit my profile !</p>
 <div align="center">
   <img width="230" height="200" src="https://media1.tenor.com/m/TF830aDclLsAAAAC/adi%C3%B3s.gif" />
 </div>
