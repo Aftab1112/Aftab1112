@@ -7,7 +7,7 @@
 <h1 align="center">Hello , I'm Aftab Reshamwale</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end development <br/>
+Autodidact in `JavaScript/React` <br/>Enthusiastic about growing my skills in Front-End Development. <br/>
 </div>
 
 ----------------------------------------------------
@@ -29,13 +29,13 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 #
   
 #### You can also find me on :
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I try to build up my front-end skills here 
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I'm refining my front-end abilities here
 
 #
 
 <div align="center">
   
-### Tools I Use
+### My Toolset
 
 <br/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
@@ -70,7 +70,7 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 
 #
 
-<p align="center">Thank you for visiting my profile!</p>
+<p align="center">Thank you for taking the time to visit my profile!</p>
 <div align="center">
   <img width="230" height="200" src="https://media1.tenor.com/m/TF830aDclLsAAAAC/adi%C3%B3s.gif" />
 </div>
