@@ -22,8 +22,8 @@ Self-taught `JavaScript/React` <br/>Looking forward to build skills in front end
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@areshamwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@areshamwale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aftabreshamwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabreshamwale" height="30" width="40" /></a>
+<a href="https://twitter.com/@areshamwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@areshamwale" height="30" width="40" /></a>
 </p>
 
 #
