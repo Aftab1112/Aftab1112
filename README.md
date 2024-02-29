@@ -33,8 +33,6 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 #### You can also find me on :
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Aftab1112) - I'm refining my Front-End abilities here
 
-#### My Wakatime Stats :
- [![wakatime](https://wakatime.com/badge/user/018d5f86-e777-46c5-9e32-bccbe9d7746c.svg)](https://wakatime.com/@018d5f86-e777-46c5-9e32-bccbe9d7746c)
 
 #
 
@@ -65,6 +63,19 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 </div>
 
 #
+
+<div align="center">
+
+### My Wakatime Stats
+
+</br>
+
+[![wakatime](https://wakatime.com/badge/user/018d5f86-e777-46c5-9e32-bccbe9d7746c.svg)](https://wakatime.com/@018d5f86-e777-46c5-9e32-bccbe9d7746c)
+
+</div>
+
+#
+</br>
 
 <div align="center">
   
