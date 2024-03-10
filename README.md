@@ -59,6 +59,8 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" height="40" alt="framer-motion logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -74,9 +76,16 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 
 ### My Wakatime Stats
 
+
+<img src="https://cdn-icons-gif.flaticon.com/8722/8722702.gif" height="50" alt="loading logo"  />
+
+</br>
 </br>
 
-[![wakatime](https://wakatime.com/badge/user/018d5f86-e777-46c5-9e32-bccbe9d7746c.svg)](https://wakatime.com/@018d5f86-e777-46c5-9e32-bccbe9d7746c)
+<a href="https://wakatime.com/@018d5f86-e777-46c5-9e32-bccbe9d7746c">
+  <img src="https://wakatime.com/badge/user/018d5f86-e777-46c5-9e32-bccbe9d7746c.svg" alt="Wakatime" width="250" height="30">
+</a>
+
 
 </div>
 
