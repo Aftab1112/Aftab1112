@@ -5,14 +5,8 @@
 
 <div align="center">
   
-<h1 align="center">Hello, I'm </h1>
+<h1 align="center">I'm Aftab Reshamwale </h1>
 
-<p>
-    <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.herokuapp.com?font=ui-monospace&weight=700&size=38&pause=1000&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=1100&lines=AFTAB;A+Passionate+Front-End+Developer"/></a>
-  </p>
-
- 
 
 Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills in Front-End Development <br/>
 </div>
