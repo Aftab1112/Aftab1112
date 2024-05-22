@@ -6,7 +6,7 @@
 <div align="center">
   
 <h1 align="center">I'm Aftab Reshamwale </h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Front-End & MERN Stack Developer</h3>
 
 
 Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills in Front-End Development <br/>
@@ -42,27 +42,24 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
 ### My Toolset
 
 <br/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://framerusercontent.com/images/48ha9ZR9oZQGQ6gZ8YUfElP3T0A.png" height="40" alt="framer-motion logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
 #
