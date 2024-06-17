@@ -60,6 +60,8 @@ Autodidact in `JavaScript & React` <br/>Enthusiastic about building up my skills
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
 </div>
 
 #
